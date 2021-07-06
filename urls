@@ -1,0 +1,24 @@
+# fun feeds
+http://xkcd.com/atom.xml comic
+https://www.smbc-comics.com/comic/rss comic
+https://feeds.feedburner.com/Explosm comic
+
+# news feeds
+http://feeds.bbci.co.uk/news/rss.xml?edition=uk news
+https://feeds.feedburner.com/TheHackersNews news
+
+# tech feeds
+https://www.gamingonlinux.com/article_rss.php tech 
+https://www.techradar.com/rss tech
+https://www.wired.com/feed/rss tech
+http://www.mondaynote.com/feed/ tech
+http://feeds.feedburner.com/ScottHanselman tech
+http://vihart.com/feed tech
+http://thechangelog.com/rss tech
+
+# blogs
+https://lukesmith.xyz/rss.xml blog
+http://blog.stackoverflow.com/feed/ blog
+http://sethgodin.typepad.com/seths_blog/atom.xml blog
+http://blog.dustinkirkland.com/feeds/posts/default blog 
+https://ramonh.dev/blog/feed.xml blog 

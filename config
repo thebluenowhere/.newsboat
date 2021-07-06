@@ -1,0 +1,32 @@
+# General
+auto-reload yes
+refresh-on-startup yes
+confirm-exit yes
+reload-time 30
+browser firefox
+player vlc
+article-sort-order date-asc
+save-path "~/Notes/Bookmarks"
+goto-next-feed no
+show-read-feeds yes
+
+# Colors
+color listnormal          default default 
+color listfocus           black white
+color listfocus_unread    black white bold
+color listnormal_unread   white default bold
+color info                default cyan bold
+
+# Keybinding
+bind-key k up
+bind-key j down
+bind-key h quit
+bind-key q quit
+unbind-key l
+bind-key l open
+bind-key m toggle-show-read-feeds
+unbind-key C
+unbind-key A feedlist
+
+# Filters
+
