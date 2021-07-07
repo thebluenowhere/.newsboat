@@ -22,3 +22,13 @@ http://blog.stackoverflow.com/feed/ blog
 http://sethgodin.typepad.com/seths_blog/atom.xml blog
 http://blog.dustinkirkland.com/feeds/posts/default blog 
 https://ramonh.dev/blog/feed.xml blog 
+
+# podcasts
+http://feeds.frogpants.com/morningstream_feed.xml podcast
+
+# twitter
+https://rss.app/feeds/xsUAgXx3ku63EnOU.xml twitter coverville
+https://rss.app/feeds/ZOLFeCQWjo8Ut2CV.xml twitter frogpants
+
+# reddit
+https://www.reddit.com/r/techwearclothing.rss reddit
