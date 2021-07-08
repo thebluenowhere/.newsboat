@@ -2,6 +2,7 @@
 http://xkcd.com/atom.xml comic
 https://www.smbc-comics.com/comic/rss comic
 https://feeds.feedburner.com/Explosm comic
+https://www.hyperborea.org/journal/feed/ comic
 
 # news feeds
 http://feeds.bbci.co.uk/news/rss.xml?edition=uk news
@@ -34,3 +35,82 @@ https://rss.app/feeds/ZOLFeCQWjo8Ut2CV.xml twitter frogpants
 # reddit
 https://www.reddit.com/r/techwearclothing.rss reddit
 
+# misc
+https://flak.tedunangst.com/rss
+https://lukesmith.xyz/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+https://notrelated.libsyn.com/rss
+http://coreyms.com/feed/
+https://www.i-bsd.com/feed.xml
+https://www.romanzolotarev.com/rss.xml "Roman OpenBSD / Webdev Guy"
+https://mwl.io/feed
+http://c0de517e.blogspot.com/feeds/posts/default
+https://stallman.org/rss/rss.xml
+http://esr.ibiblio.org/?feed=rss2
+http://decafbad.net/feed
+http://openmetalcast.com/feed/					 
+https://kotaku.com/rss
+https://blog.getpelican.com/feeds/all.atom.xml
+https://nostarch.com/feeds/newbooks.xml
+https://nostarch.com/feeds/comingsoon.xml
+https://www.davidrevoy.com/feed/rss
+https://www.davidrevoy.com/feed/rss/categorie2/webcomics/
+https://www.davidrevoy.com/feed/rss/categorie3/tutorials-brushes-extras
+https://www.hardill.me.uk/wordpress/feed/
+https://www.archlinux.org/feeds/news/
+https://bunnyman.info/index.xml
+https://feeds.hackercodex.com/feeds/main
+http://www.mug.org/feed/
+https://smlr.us/?feed=podcast
+https://smlr.us/?feed=smlr-ogg
+https://n-o-d-e.net/rss/rss.xml
+https://www.c0ffee.net/rss/
+https://objective-see.com/rss.xml
+http://feeds.feedburner.com/erikdubois
+https://arcolinux.info/feed/
+https://linuxunplugged.com/articles/rss
+https://linuxunplugged.com/rss
+https://www.bsdnow.tv/rss
+http://feeds.twit.tv/floss.xml
+https://matthewdevaney.com/feeds/all.atom.xml
+https://agonser.xyz/feeds/all.atom.xml
+https://www.charlieharrington.com/rss.xml
+http://suckless.org/atom.xml
+https://theanarchistlibrary.org/feed
+https://archive.org/services/collection-rss.php?query=john%20zerzan climate
+https://tribunemag.co.uk/feed/ news
+https://www.theatlantic.com/feed/all/ news
+https://www.theverge.com/rss/index.xml news
+https://feeds.feedburner.com/NakedCapitalism
+https://feeds.feedburner.com/PepysDiary
+https://nightafternight.substack.com/feed music
+http://radiofrance-podcast.net/podcast09/rss_18081.xml music
+https://bluelabyrinths.com/feed/ philosophy
+https://feeds.feedburner.com/typepad/UbBI philosophy
+https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
+https://www.journal-psychoanalysis.eu/feed/ philosophy
+https://www.lacan.com/perfumeblog/?feed=rss2 philosophy
+https://www.urbanomic.com/feed/ philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA philosophy
+https://pluralistic.net/feed/ fav
+https://cosmic.voyage/rss.xml
+https://www.theatlantic.com/feed/best-of/ news fav
+https://davidmenestres.com/feed/podcast/ music fav
+https://pitchfork.com/rss/news/ music fav "~PF News"
+https://lukesmith.xyz/rss.xml luke
+https://feeds.feedburner.com/therestisnoise music fav
+https://aeon.co/feed.rss philosophy fav
+https://inkdroid.org/feed.xml
+https://computer.rip/rss.xml
+https://www.3ammagazine.com/3am/feed/ philosophy
+https://anneboyer.substack.com/feed fav
+https://sfj.substack.com/feed music fav
+https://network23.org/ainriail/feed/ climate
+https://efforg.libsyn.com/rss
+https://www.jamesrwilliams.net/feed/ philosophy fav
+https://cdn.jwz.org/blog/feed/
+http://ajroach42.com/feed.xml
+https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
+https://100r.co/links/rss.xml
+https://feeds.feedburner.com/arstechnica/index/ fav
+https://spool-five.com/rss.xml
