@@ -9,9 +9,9 @@ goto-next-feed no
 show-read-feeds no 
 download-retries 5
 download-timeout 60
+confirm-exit yes
 
 # colors
-color background          black      default
 color listnormal          color8     default
 color listnormal_unread   green      default bold
 color listfocus           white     blue bold
