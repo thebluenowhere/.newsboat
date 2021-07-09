@@ -2,78 +2,77 @@
 http://xkcd.com/atom.xml comic
 https://www.smbc-comics.com/comic/rss comic
 https://feeds.feedburner.com/Explosm comic
-https://www.davidrevoy.com/feed/rss/categorie2/webcomics/
-https://cosmic.voyage/rss.xml
+https://www.davidrevoy.com/feed/rss/categorie2/webcomics/ comic
+https://cosmic.voyage/rss.xml comic
 
 # news feeds
 http://feeds.bbci.co.uk/news/rss.xml?edition=uk news
-https://www.theatlantic.com/feed/all/ news
-https://network23.org/ainriail/feed/ climate
-https://theanarchistlibrary.org/feed
+https://network23.org/ainriail/feed/ news	
+https://theanarchistlibrary.org/feed news
 https://tribunemag.co.uk/feed/ news
 https://feeds.feedburner.com/TheHackersNews news
 
 # tech feeds
 https://www.gamingonlinux.com/article_rss.php tech 
 https://www.techradar.com/rss tech
-http://ajroach42.com/feed.xml
+http://ajroach42.com/feed.xml tech
 https://www.wired.com/feed/rss tech
-https://feeds.feedburner.com/arstechnica/index/ fav
+https://feeds.feedburner.com/arstechnica/index/ tech
 http://www.mondaynote.com/feed/ tech
 http://feeds.feedburner.com/ScottHanselman tech
 http://vihart.com/feed tech
-https://www.archlinux.org/feeds/news/
+https://www.archlinux.org/feeds/news/ tech
 http://thechangelog.com/rss tech
-http://c0de517e.blogspot.com/feeds/posts/default
-https://stallman.org/rss/rss.xml
-http://esr.ibiblio.org/?feed=rss2
-https://kotaku.com/rss
-https://feeds.hackercodex.com/feeds/main
-https://linuxunplugged.com/articles/rss
-https://linuxunplugged.com/rss
-http://feeds.twit.tv/floss.xml
-https://n-o-d-e.net/rss/rss.xml
-http://suckless.org/atom.xml
-https://pluralistic.net/feed/ fav
+http://c0de517e.blogspot.com/feeds/posts/default tech
+https://stallman.org/rss/rss.xml tech
+http://esr.ibiblio.org/?feed=rss2 tech
+https://kotaku.com/rss tech
+https://feeds.hackercodex.com/feeds/main tech
+https://linuxunplugged.com/articles/rss tech
+https://linuxunplugged.com/rss tech
+http://feeds.twit.tv/floss.xml tech
+https://n-o-d-e.net/rss/rss.xml tech
+http://suckless.org/atom.xml tech
+https://pluralistic.net/feed/ tech
 
 # blogs
 https://lukesmith.xyz/rss.xml blog
 http://blog.stackoverflow.com/feed/ blog
 http://sethgodin.typepad.com/seths_blog/atom.xml blog
-https://bunnyman.info/index.xml
+https://bunnyman.info/index.xml blog
 http://blog.dustinkirkland.com/feeds/posts/default blog 
 https://ramonh.dev/blog/feed.xml blog 
-https://anneboyer.substack.com/feed fav
-https://www.charlieharrington.com/rss.xml
+https://anneboyer.substack.com/feed blog
+https://www.charlieharrington.com/rss.xml blog
 https://www.hyperborea.org/journal/feed/ blog
-https://cdn.jwz.org/blog/feed/
-https://100r.co/links/rss.xml
-https://spool-five.com/rss.xml
+https://cdn.jwz.org/blog/feed/ blog
+https://100r.co/links/rss.xml blog
+https://spool-five.com/rss.xml blog
 
 # podcasts
 http://feeds.frogpants.com/morningstream_feed.xml podcast
-https://rss.app/feeds/FvN9XoYqgqaW7vmh.xml newsletter
-https://notrelated.libsyn.com/rss
+https://rss.app/feeds/FvN9XoYqgqaW7vmh.xml podcast
+https://notrelated.libsyn.com/rss podcast
 
 # twitter
-https://rss.app/feeds/xsUAgXx3ku63EnOU.xml twitter coverville
-https://rss.app/feeds/ZOLFeCQWjo8Ut2CV.xml twitter frogpants
+https://rss.app/feeds/xsUAgXx3ku63EnOU.xml twitter 
+https://rss.app/feeds/ZOLFeCQWjo8Ut2CV.xml twitter 
 
 # reddit
 https://www.reddit.com/r/techwearclothing.rss reddit
 
 # programming
-http://coreyms.com/feed/
-http://decafbad.net/feed
-https://nostarch.com/feeds/newbooks.xml
-https://nostarch.com/feeds/comingsoon.xml
-https://inkdroid.org/feed.xml
-https://computer.rip/rss.xml
-https://www.hardill.me.uk/wordpress/feed/
+http://coreyms.com/feed/ programming
+http://decafbad.net/feed programming
+https://nostarch.com/feeds/newbooks.xml programming
+https://nostarch.com/feeds/comingsoon.xml programming
+https://inkdroid.org/feed.xml programming 
+https://computer.rip/rss.xml programming 
+https://www.hardill.me.uk/wordpress/feed/ programming 
 
 # books/magazines
 https://mwl.io/feed books
-https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
+https://solar.lowtechmagazine.com/feeds/all-en.atom.xml books
 
 # philosophy
 https://bluelabyrinths.com/feed/ philosophy
@@ -82,8 +81,8 @@ https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
 https://www.journal-psychoanalysis.eu/feed/ philosophy
 https://www.lacan.com/perfumeblog/?feed=rss2 philosophy
 https://www.urbanomic.com/feed/ philosophy
-https://aeon.co/feed.rss philosophy fav
+https://aeon.co/feed.rss philosophy 
 https://www.3ammagazine.com/3am/feed/ philosophy
-https://www.jamesrwilliams.net/feed/ philosophy fav
+https://www.jamesrwilliams.net/feed/ philosophy 
 
 # misc
