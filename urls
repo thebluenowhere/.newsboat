@@ -6,7 +6,6 @@ https://www.davidrevoy.com/feed/rss/categorie2/webcomics/ comic
 https://cosmic.voyage/rss.xml comic
 
 # news feeds
-http://feeds.bbci.co.uk/news/rss.xml?edition=uk news
 https://network23.org/ainriail/feed/ news	
 https://theanarchistlibrary.org/feed news
 https://tribunemag.co.uk/feed/ news
@@ -14,23 +13,18 @@ https://feeds.feedburner.com/TheHackersNews news
 
 # tech feeds
 https://www.gamingonlinux.com/article_rss.php tech 
-https://www.techradar.com/rss tech
 http://ajroach42.com/feed.xml tech
-https://www.wired.com/feed/rss tech
 https://feeds.feedburner.com/arstechnica/index/ tech
 http://www.mondaynote.com/feed/ tech
-http://feeds.feedburner.com/ScottHanselman tech
 http://vihart.com/feed tech
 https://www.archlinux.org/feeds/news/ tech
 http://thechangelog.com/rss tech
 http://c0de517e.blogspot.com/feeds/posts/default tech
-https://stallman.org/rss/rss.xml tech
 http://esr.ibiblio.org/?feed=rss2 tech
 https://kotaku.com/rss tech
 https://feeds.hackercodex.com/feeds/main tech
 https://linuxunplugged.com/articles/rss tech
 https://linuxunplugged.com/rss tech
-http://feeds.twit.tv/floss.xml tech
 https://n-o-d-e.net/rss/rss.xml tech
 http://suckless.org/atom.xml tech
 https://pluralistic.net/feed/ tech
@@ -49,16 +43,15 @@ https://100r.co/links/rss.xml blog
 https://spool-five.com/rss.xml blog
 
 # podcasts
-http://feeds.frogpants.com/morningstream_feed.xml podcast
 https://rss.app/feeds/FvN9XoYqgqaW7vmh.xml podcast
 https://notrelated.libsyn.com/rss podcast
 
 # twitter
 https://rss.app/feeds/xsUAgXx3ku63EnOU.xml twitter 
 https://rss.app/feeds/ZOLFeCQWjo8Ut2CV.xml twitter 
+https://rss.app/feeds/5JTHFa26mb8LoSyo.xml 
 
 # reddit
-https://www.reddit.com/r/techwearclothing.rss reddit
 
 # programming
 http://coreyms.com/feed/ programming
@@ -77,7 +70,6 @@ https://solar.lowtechmagazine.com/feeds/all-en.atom.xml books
 https://bluelabyrinths.com/feed/ philosophy
 https://feeds.feedburner.com/typepad/UbBI philosophy
 https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
-https://www.journal-psychoanalysis.eu/feed/ philosophy
 https://www.lacan.com/perfumeblog/?feed=rss2 philosophy
 https://www.urbanomic.com/feed/ philosophy
 https://aeon.co/feed.rss philosophy 
