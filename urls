@@ -7,8 +7,6 @@ https://cosmic.voyage/rss.xml comic
 
 # news feeds
 https://network23.org/ainriail/feed/ news	
-https://theanarchistlibrary.org/feed news
-https://tribunemag.co.uk/feed/ news
 https://feeds.feedburner.com/TheHackersNews news
 
 # tech feeds
@@ -68,7 +66,6 @@ https://solar.lowtechmagazine.com/feeds/all-en.atom.xml books
 
 # philosophy
 https://bluelabyrinths.com/feed/ philosophy
-https://feeds.feedburner.com/typepad/UbBI philosophy
 https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
 https://www.lacan.com/perfumeblog/?feed=rss2 philosophy
 https://www.urbanomic.com/feed/ philosophy
